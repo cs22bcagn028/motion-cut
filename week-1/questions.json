@@ -1,0 +1,27 @@
+[
+  {
+      "question": "What is the purpose of the __init__ method in a Python class?",
+      "options": ["To initialize class variables", "To define the class constructor", "To create an instance of the class", "To declare instance variables"],
+      "correct_option": 2
+  },
+  {
+      "question": "What is the difference between a list and a tuple in Python?",
+      "options": ["Lists are mutable, and tuples are immutable", "Lists are immutable, and tuples are mutable", "Both lists and tuples are mutable", "Both lists and tuples are immutable"],
+      "correct_option": 1
+  },
+  {
+      "question": "In Python, what does the import statement do?",
+      "options": ["Imports a module or package", "Declares a variable", "Defines a function", "Creates a new class"],
+      "correct_option": 0
+  },
+  {
+      "question": "What is the purpose of the __main__ block in a Python script?",
+      "options": ["It defines the main function of the script", "It executes when the script is imported as a module", "It contains the main logic of the script", "It is a placeholder for future code"],
+      "correct_option": 2
+  },
+  {
+      "question": "How is exception handling implemented in Python?",
+      "options": ["Using if-else statements", "Using the try-except block", "By using the raise keyword", "Exception handling is not supported in Python"],
+      "correct_option": 1
+  }
+]
