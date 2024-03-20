@@ -10,3 +10,7 @@ if(word_count(inputSentence) == 0):
     print("Invalid input! You must enter some string to check the working of the program :)")
 else:
     print(f"number of words : {word_count(inputSentence)}")
+
+
+
+
