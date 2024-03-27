@@ -2,4 +2,4 @@ password.md
 
 .gitignore
 
-venv
+./venv
